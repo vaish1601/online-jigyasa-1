@@ -98,7 +98,7 @@ button:hover{
         text-align: center;  
         background:transparent; 
         color: #fff; 
-        box-shadow: 0 0 1px rgb(0,42,255), 0 0 2px rgb(0,42,255), 0 0 6px rgb(0,42,255), 0 0 12px rgb(0,42,255), inset 0 0 2px rgb(0,42,255), inset 0 0 6px rgb(0,42,255), inset 0 0 12px rgb(0,42,255);
+        box-shadow: 0 0 1px rgb(78, 100, 212), 0 0 2px  rgb(78, 100, 212), 0 0 6px  rgb(78, 100, 212), 0 0 12px  rgb(78, 100, 212), inset 0 0 2px  rgb(78, 100, 212), inset 0 0 6px  rgb(78, 100, 212), inset 0 0 12px  rgb(78, 100, 212);
         border: 1px solid #f9f9f9;  
         border-radius: 5px;  
         }  
